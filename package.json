@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@liveblocks/client": "^2.6.1",
+    "@liveblocks/react": "^2.6.1"
+  }
+}
